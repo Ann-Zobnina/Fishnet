@@ -1,0 +1,29 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(/home/anna/Програмирование/Projects/GeekBrains/PSD/icomoon/sprite/sprite.png);
+  /* background-color: #f7f7f7; */
+
+  color: #6c6c6c;
+}
+.icon-google-plus3 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-whatsapp {
+  width: 32px;
+  height: 32px;
+  background-position: -36px 0;
+}
+.icon-telegram {
+  width: 32px;
+  height: 32px;
+  background-position: -72px 0;
+}
+.icon-twitter {
+  width: 32px;
+  height: 32px;
+  background-position: -108px 0;
+}
+
